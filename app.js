@@ -1,13 +1,13 @@
 
 const players = [
-  {id:1, role:"WINGER", skill:"Quick movement and support", img:"assets/player-01.jpg"},
-  {id:2, role:"DEFENDER", skill:"Reads danger and protects space", img:"assets/player-02.jpg"},
-  {id:3, role:"ATTACKER", skill:"Creates chances and finds space", img:"assets/player-03.jpg"},
-  {id:4, role:"STRIKER", skill:"Movement near goal", img:"assets/player-04.jpg"},
-  {id:5, role:"DEFENDER", skill:"Strong positioning and cover", img:"assets/player-05.jpg"},
-  {id:6, role:"GOALKEEPER", skill:"Starts attacks and sees the pitch", img:"assets/player-06.jpg"},
-  {id:7, role:"FORWARD", skill:"Makes dangerous attacking runs", img:"assets/player-07.jpg"},
-  {id:8, role:"MIDFIELDER", skill:"Links play and scans for options", img:"assets/player-08.jpg"}
+  {id:1, role:"WINGER", skill:"Quick movement and support", img:"Assets/player-01.jpg"},
+  {id:2, role:"DEFENDER", skill:"Reads danger and protects space", img:"Assets/player-02.jpg"},
+  {id:3, role:"ATTACKER", skill:"Creates chances and finds space", img:"Assets/player-03.jpg"},
+  {id:4, role:"STRIKER", skill:"Movement near goal", img:"Assets/player-04.jpg"},
+  {id:5, role:"DEFENDER", skill:"Strong positioning and cover", img:"Assets/player-05.jpg"},
+  {id:6, role:"GOALKEEPER", skill:"Starts attacks and sees the pitch", img:"Assets/player-06.jpg"},
+  {id:7, role:"FORWARD", skill:"Makes dangerous attacking runs", img:"Assets/player-07.jpg"},
+  {id:8, role:"MIDFIELDER", skill:"Links play and scans for options", img:"Assets/player-08.jpg"}
 ];
 
 const scenarios = [
